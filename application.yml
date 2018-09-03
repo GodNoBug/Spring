@@ -9,8 +9,8 @@ spring:
   application:
     name: microservicecloud-config-itcast-dev
  
- ---
- spring:
+---
+spring:
   profiles: test #测试环境
   application:
     name: microservicecloud-config-itcast-test
