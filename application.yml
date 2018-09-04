@@ -13,6 +13,8 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka-dev.com:7002/eureka/
+demo:
+  hello: 12345
 ---
 server:
   post: 8202
